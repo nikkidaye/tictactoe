@@ -1,0 +1,16 @@
+.grid-container {
+  display:grid;
+  grid-template-columns: 33% 33% 33%;
+}
+.grid-item {
+  background-color: pink;
+  border-color: lightgreen;
+  border-style: solid;
+  border-width: thin;
+  text-align: center;
+  border-radius: hidden;
+}
+
+.top-row {
+  border-style: dashed;
+}
